@@ -1,4 +1,4 @@
-# www.shishirjaiswal.com.backend.aws-sam
+# ayushpatel.backend.aws-sam
 
 This project contains source code and supporting files for backend serverless application (deployed with the SAM CLI) for http://ayushpatel.s3-website.ca-central-1.amazonaws.com/
 It includes the following files and folders.
